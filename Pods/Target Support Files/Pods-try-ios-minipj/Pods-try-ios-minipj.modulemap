@@ -1,0 +1,6 @@
+framework module Pods_try_ios_minipj {
+  umbrella header "Pods-try-ios-minipj-umbrella.h"
+
+  export *
+  module * { export * }
+}
